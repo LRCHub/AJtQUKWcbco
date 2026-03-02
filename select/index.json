@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "OIDEMASE!!～極楽～",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-03-02T14:04:18.636903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OIDEMASE!!~極楽~ 2021",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/01_OIDEMASE!!~極楽~_2021_FES☆TIVE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OIDEMASE!!～極楽～",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_OIDEMASE!!~極楽~_FES☆TIVE.txt"
+    }
+  ]
+}
